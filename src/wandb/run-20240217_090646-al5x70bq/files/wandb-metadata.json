@@ -1,0 +1,66 @@
+{
+    "os": "Linux-5.15.0-57-generic-x86_64-with-glibc2.17",
+    "python": "3.8.13",
+    "heartbeatAt": "2024-02-17T09:06:53.404002",
+    "startedAt": "2024-02-17T09:06:46.349814",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "ATOSS/src/dpo.ipynb",
+    "codePathLocal": null,
+    "root": "/home/elicer",
+    "host": "c931a498b418",
+    "username": "elicer",
+    "executable": "/home/elicer/anaconda3/envs/atoss/bin/python",
+    "cpu_count": 3,
+    "cpu_count_logical": 6,
+    "cpu_freq": {
+        "current": 1100.207,
+        "min": 800.0,
+        "max": 3200.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2556.808,
+            "min": 800.0,
+            "max": 3200.0
+        },
+        {
+            "current": 800.009,
+            "min": 800.0,
+            "max": 3200.0
+        },
+        {
+            "current": 799.695,
+            "min": 800.0,
+            "max": 3200.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2307.219,
+            "min": 800.0,
+            "max": 3200.0
+        },
+        {
+            "current": 799.784,
+            "min": 800.0,
+            "max": 3200.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1029.990234375,
+            "used": 240.11898803710938
+        }
+    },
+    "gpu": "NVIDIA A100 80GB PCIe",
+    "gpu_count": 1,
+    "memory": {
+        "total": 48.0
+    }
+}
