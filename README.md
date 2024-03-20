@@ -1,9 +1,3 @@
-# Complete Reasoning based Aspect-Based sentiment anlysis(CRAB)
-
-## Short Summary
-
--
-
 ## Requirements
 ```sh
 We highly recommend you to install the specified version of the following packages to avoid unnecessary troubles:
