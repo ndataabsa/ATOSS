@@ -1,5 +1,6 @@
 lightning_log*/
 .ipynb_checkpoints/
+wandb/
 outputs/
 final*/
 *.gz
